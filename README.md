@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 Je travaille actuellement sur des projets de développement web, en explorant différentes applications et fonctionnalités avec JavaScript.<br><br>👯 Je suis ouvert à la collaboration sur des projets web intéressants et novateurs. Si vous avez une idée ou un projet sur lequel vous souhaitez travailler ensemble, n'hésitez pas à me contacter !<br><br>🤝 Je suis à la recherche d'aide pour approfondir mes connaissances en développement web, notamment dans le domaine des technologies front-end comme React.js et Vue.js.<br><br>🌱 En ce moment, je me concentre sur l'apprentissage des bonnes pratiques en matière de développement web, ainsi que sur l'amélioration de mes compétences en JavaScript pour créer des applications plus performantes et efficaces.<br><br>💬 N'hésitez pas à me poser des questions sur le développement web, JavaScript ou tout autre sujet lié à la programmation. Je suis toujours heureux d'échanger des idées et de partager mes connaissances.<br><br>⚡ En dehors du développement web, je suis un passionné de sport, toujours prêt pour une course matinale pour démarrer la journée du bon pied !
+🔭 Développement web avec JavaScript.
+
+👯 Ouvert à collaboration sur projets innovants.
+
+🤝 Besoin d'aide pour node.js .
+
+🌱 Apprentissage des bonnes pratiques de JS, nodeJs.
+
+💬 Questions sur moi ?
+
+⚡ Passionné de sport, particulièrement course matinale.
+
 
 
 ## 🌐 Socials:
