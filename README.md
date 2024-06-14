@@ -1,11 +1,12 @@
 <h1 align="center">Hello 👋, mon nom est Emmanuel CHARLES</h1>
 <h3 align="center">Un développeur web passionné</h3>
 
-- 🔭Je travaille actuellement sur **une API de rectte**
+- 🔭Je travaille actuellement sur **les API rest full avec node.js**
 
-- 🌱 I’m currently learning **Node js, API rest ful**
+-🌱 En ce moment, j'apprends Node.js, SQL, PostgreSQL et MongoDB.**
 
-- 👯 I’m looking to collaborate on [Rest'O GraphQL](https://github.com/O-clock-Onigiri/Data-resto-graphql-challenge-CHARLESEmm)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
