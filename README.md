@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, mon nom est Emmanuel CHARLES</h1>
 <h3 align="center">Un développeur web passionné</h3>
 
-- 🔭Je travaille actuellement sur **les API rest full avec node.js**
+- 🔭 Je travaille actuellement sur **les API rest full avec node.js**
 
--🌱 En ce moment, j'apprends Node.js, SQL, PostgreSQL et MongoDB.**
+-🌱 En ce moment, j'apprends Node.js, SQL, PostgreSQL et MongoD.**
 
 
 
