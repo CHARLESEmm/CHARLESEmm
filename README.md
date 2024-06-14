@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, mon nom est Emmanuel CHARLES</h1>
+<h1 align="center">Bonjour 👋, je suis Emmanuel CHARLES</h1>
 <h3 align="center">Un développeur web passionné</h3>
 
 - 🔭 Je travaille actuellement sur **les API rest full avec node.js**
